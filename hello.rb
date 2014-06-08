@@ -21,3 +21,8 @@ ADMIN_EMAIL = "user.domain.example"
 #begin
 最初の文字が大文字なら定数となるが、通例、全て大文字で書く。
 #end
+
+# データ(オブジェクト)
+# - メソッド(クラス)
+
+p "hello world".length
