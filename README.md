@@ -1,4 +1,4 @@
-ruby_dotinstall
+ruby.install
 ===============
 
 ドットインストールのRuby入門用。
